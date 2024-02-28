@@ -2,4 +2,4 @@
 
 Para ejecutar poner:
 
-```npm install react´´´
+```npm install react```
